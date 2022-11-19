@@ -109,5 +109,5 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - Date Submitted: November 30, 2022
 - You are required to submit BOTH of the following for review:
 
-1. A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
+1. A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met: https://drive.google.com/file/d/1SY0xhduU6kk2EInJ8jrD5bxpt4roHL77/view?usp=sharing
 2. The URL of the GitHub repository. Give the repository a unique name and include a README describing the project: https://github.com/bslockhart/Brians-Social-Network-API
